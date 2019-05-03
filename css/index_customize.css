@@ -488,6 +488,12 @@ vertical-align:bottom;
   text-align: center;
 }
 
+.logo_width {
+  width: 120px;
+  float: left;
+  margin-left: 50px;
+}
+
 
 
 @media (max-width:320px){

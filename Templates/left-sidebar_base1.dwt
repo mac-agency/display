@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="zxx"><!-- InstanceBegin template="/Templates/left-sidebar_base1.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="zxx">
 	<head>
-	<!-- InstanceBeginEditable name="charset" -->
+	<!-- TemplateBeginEditable name="charset" -->
 	<meta charset="utf-8">
-	<!-- InstanceEndEditable -->
+	<!-- TemplateEndEditable -->
 	
-	<!-- InstanceBeginEditable name="doctitle" -->
-	<title>当社について｜株式会社日本製作所</title>
-	<!-- InstanceEndEditable -->
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>web site design4 仮のコーポレートサイトです。</title>
+	<!-- TemplateEndEditable -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- InstanceBeginEditable name="meta1" -->
-	<meta name="description" content="仮想企業日本製作所の当社についてをご案内しています。" />
+	<!-- TemplateBeginEditable name="meta1" -->
+	<meta name="description" content="より良いホームページをより安く！素敵なデザインであなたの会社をアピールしましょう" />
 	<meta name="keywords" content="コーポレートサイト,安価,ホームページ制作" />
-	<!-- InstanceEndEditable -->
+	<!-- TemplateEndEditable -->
 	<meta name="author" content="Mac Agency" />
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -45,16 +45,16 @@
 	<link rel="stylesheet" href="../css/style.css">
 	<link href="../css/index_customize.css" rel="stylesheet" type="text/css">
 	<script src="../js/retina.js"></script>
-	<!-- InstanceBeginEditable name="meta2" -->
-	<!-- InstanceEndEditable -->
+	<!-- TemplateBeginEditable name="meta2" -->
+	<!-- TemplateEndEditable -->
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-	<!-- InstanceBeginEditable name="head" -->
-	<!-- InstanceEndEditable -->
-	<!-- InstanceParam name="option1" type="boolean" value="false" -->
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+	<!-- TemplateParam name="option1" type="boolean" value="false" -->
 	</head>
 	<body class="inner-page">
 			
@@ -74,7 +74,7 @@
 								<a href="../base1.html">Home</a>
 							</li>
               <li>
-								<a href="index_sub.html">当社について</a>
+								<a href="../about_us/index_sub.html">当社について</a>
 							</li>
 							<li class="active">
 								<a href="#" class="fh5co-sub-ddown">企業情報</a>
@@ -114,89 +114,58 @@
 				
 					<div class="container">
 						<div class="row">
-							<!-- InstanceBeginEditable name="main_content" -->
+							<!-- TemplateBeginEditable name="main_content" -->
               <div class="col-md-8 col-md-offset-1 col-md-push-3" id="fh5co-content">
-								<section id="about_us" class="section_padding top_margin50">
-        
-    <h2 class="text-center kasou_title2">全てはお客様のために</h2>
-    <p class="kaisetu_read">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。 とかくに人の世は住みにくい。
-</p>
-    <div class="row">
-    <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us1.jpg" class="img-thumbnail retina" alt="企業概要"><h3 class="h5">企業概要</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="../company/index.html" class="btn btn-block btn-primary">詳しく見る</a>
-      </div>
-      </div>
-      <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us2.jpg" class="img-thumbnail retina" alt="採用情報"><h3 class="h5">採用情報</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="../company/recruit.html" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-      <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us3.jpg" class="img-thumbnail retina" alt="当社の沿革"><h3 class="h5">当社の沿革</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="../company/history.html" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-      <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us4.jpg" class="img-thumbnail retina" alt="社会貢献"><h3 class="h5">社会貢献</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="#" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-    </div>
-    <div class="row">
-    <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us5.jpg" class="img-thumbnail retina" alt="トップのご挨拶"><h3 class="h5">トップのご挨拶</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="#" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-      <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us6.jpg" class="img-thumbnail retina" alt="企業理念"><h3 class="h5">企業理念</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="../company/corporate_philosophy.html" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-      <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us7.jpg" class="img-thumbnail retina" alt="当社のポリシー"><h3 class="h5">当社のポリシー</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="../company/policy.html" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-      <div class="col-sm-4 col-md-3">
-      <div class="thumbnail">
-      <img src="images/about_us8.jpg" class="img-thumbnail retina" alt="当社の強み"><h3 class="h5">当社の強み</h3><p class="kaisetu_read">こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。こちらには簡単な説明文が入ります。</p><a href="#" class="btn btn-primary btn-block">詳しく見る</a>
-      </div>
-      </div>
-    </div>
-  <div class="row row-pb-md section_padding">
-	      <div class="col-md-8 col-md-offset-2 text-left fh5co-heading  animate-box"> <span>
-In-house topic</span>
-	        <h2>社内の話題を捉えて</h2>
-	        <p>当社で話題になっていることなどを通して、当社をよく知っていただければ幸いです。</p>
-	        </div>
-	      </div>
-	    <div class="row">
-	      <div class="col-md-4 col-sm-6 ph_shadow top_padding10 bottom_padding10 bottom_margin10"> <a href="#"><img src="images/about_us2.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive retina">
-	        <div class="fh5co-copy">
-	          <h3 class="h4 text-primary">女性の活躍がめざましいです</h3>
-	          <p class="text-danger">管理部門企画室</p>
-	          </div>
-	        </a> </div>
-	      <div class="col-md-4 col-sm-6 ph_shadow top_padding10 bottom_padding10 bottom_margin10"> <a href="#"><img src="images/about_us3.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive retina">
-	        <div class="fh5co-copy">
-	          <h3 class="h4 text-primary">2020年が大きな機会に</h3>
-	          <p class="text-danger">開発部門製品部</p>
-	          </div>
-	        </a> </div>
-	      <div class="col-md-4 col-sm-6 ph_shadow top_padding10 bottom_padding10 bottom_margin10"> <a href="#"><img src="images/about_us6.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive retina">
-	        <div class="fh5co-copy">
-	          <h3 class="h4 text-primary">生産と品質を見つめて</h3>
-	          <p class="text-danger">管理部門生産管理室</p>
-	          </div>
-	        </a> </div>
-	      </div>
-        </section>
+								<h2>Intuitive, Creative Design</h2>
+								<div class="row">
+									<div class="col-md-6">
+										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="#">Distinctio</a>, hic natus, at earum est ducimus molestiae saepe omnis animi voluptates rerum voluptatum fugit, sint deleniti architecto nulla. Unde tempore nisi animi libero rem incidunt at, illo error alias, cum laborum saepe eligendi blanditiis vitae tempora quibusdam ad consequatur aspernatur ut.</p>
+									</div>
+									<div class="col-md-6">
+										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, itaque asperiores cupiditate iure commodi similique obcaecati nisi molestias quia impedit. Autem, itaque asperiores cupiditate iure commodi similique obcaecati nisi molestias quia impedit.</p>
+									</div>
+								</div>
+								<div class="fh5co-spacer fh5co-spacer-sm"></div>
+								<div class="row">
+									<div class="col-md-4 col-sm-6">
+										<a href="#"><img src="../images/project_1.jpg" alt="Image" class="img-responsive"></a>
+										<div class="fh5co-spacer-xs"></div>
+										<h3>Unde tempore nisi animi</h3>
+										<p>Unde tempore nisi animi libero rem incidunt at, illo error alias, cum laborum saepe eligendi blanditiis vitae tempora quibusdam ad consequatur aspernatur ut.</p>
+										<p><a href="#" class="btn btn-primary btn-sm">Read More</a></p>
+									</div>
+									<div class="col-md-4 col-sm-6">
+										<a href="#"><img src="../images/project_2.jpg" alt="Image" class="img-responsive"></a>
+										<div class="fh5co-spacer-xs"></div>
+										<h3>Nsequatur aspernatur</h3>
+										<p>Unde tempore nisi animi libero rem incidunt at, illo error alias, cum laborum saepe eligendi blanditiis vitae tempora quibusdam ad consequatur aspernatur ut.</p>
+										<p><a href="#" class="btn btn-primary btn-sm">Read More</a></p>
+									</div>
+									<div class="clearfix visible-sm-block"></div>
+									<div class="col-md-4 col-sm-6">
+										<a href="#"><img src="../images/project_3.jpg" alt="Image" class="img-responsive"></a>
+										<div class="fh5co-spacer-xs"></div>
+										<h3>Voluptates rerum</h3>
+										<p>Unde tempore nisi animi libero rem incidunt at, illo error alias, cum laborum saepe eligendi blanditiis vitae tempora quibusdam ad consequatur aspernatur ut.</p>
+										<p><a href="#" class="btn btn-primary btn-sm">Read More</a></p>
+									</div>
+								</div>
+								<div class="fh5co-spacer fh5co-spacer-sm"></div>
+								<h2>Readability, Usability &amp; Scalability</h2>
+								<div class="row">
+									<div class="col-md-6">
+										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="#">Distinctio</a>, hic natus, at earum est ducimus molestiae saepe omnis animi voluptates rerum voluptatum fugit, sint deleniti architecto nulla. Unde tempore nisi animi libero rem incidunt at, illo error alias, cum laborum saepe eligendi blanditiis vitae tempora quibusdam ad consequatur aspernatur ut.</p>
+									</div>
+									<div class="col-md-6">
+										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, itaque asperiores cupiditate iure commodi similique obcaecati nisi molestias quia impedit. Autem, itaque asperiores cupiditate iure commodi similique obcaecati nisi molestias quia impedit.</p>
+									</div>
+								</div>
 
 							</div>
-              <!-- InstanceEndEditable -->
-              
+              <!-- TemplateEndEditable -->
+              <!-- TemplateBeginIf cond="option1" -->
+              option1が入ります
+              <!-- TemplateEndIf -->
               
               <!--↑ここまでメインコンテンツ↑-->
               <!--↓ここからサイド↓-->
@@ -313,4 +282,4 @@ In-house topic</span>
 	<script src="../js/main.js"></script>
 
 </body>
-<!-- InstanceEnd --></html>
+</html>
