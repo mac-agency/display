@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-  <html lang="ja"><!-- InstanceBegin template="/Templates/sidebar_base1.dwt" codeOutsideHTMLIsLocked="false" -->
+  <html lang="ja"><!-- InstanceBegin template="/Templates/base1.dwt" codeOutsideHTMLIsLocked="false" -->
 	<head>
-	
+	<!-- InstanceBeginEditable name="charset" -->
 	<meta charset="utf-8">
-	<!-- InstanceParam name="slider1" type="boolean" value="false" -->
-	
+	<!-- TemplateParam name="slider1" type="boolean" value="false" -->
+	<!-- InstanceEndEditable -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- InstanceBeginEditable name="doctitle" -->
 	<title>web site design4 仮のコーポレートサイトです。</title>
@@ -52,11 +52,11 @@
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-	
 	<!-- InstanceBeginEditable name="head" -->
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
 	<!-- InstanceEndEditable -->
-	
-	
+	<!-- InstanceParam name="option1" type="boolean" value="false" -->
 	</head>
 	<body>
 
@@ -90,61 +90,30 @@
 				</div>
 			</header>
 			
-			<!-- START #fh5co-hero --><!-- InstanceBeginEditable name="top_hero" -->
-			<section id="fh5co-hero" style="background-image: url(images/access_top.jpg);">
+			<!-- START #fh5co-hero --><!-- InstanceBeginEditable name="hero1" --><!-- TemplateBeginEditable name="top_hero" -->
+			<section id="fh5co-hero" style="background-image: url(../images/top_slide3.jpg);">
 			  <div class="container">
 			    <div class="row">
 			      <div class="col-md-8 col-md-offset-2">
-			        
-			          <div class="fh5co-hero-intro kasou_title_margin">
-			            <h2 class="text-center"><span class="kasou_main_title">アクセス</span></h2>
-			            <h3 class="text-center">当社への交通についてご案内しています</h3>
+			        <div class="fh5co-hero-wrap">
+			          <div class="fh5co-hero-intro">
+			            <h2>We Are Creative People<span></span></h2>
+			            <h3>Display Creative Studio</h3>
 		            </div>
-		          
+		          </div>
 		        </div>
 		      </div>
 		    </div>
 		  </section>
-			<!-- InstanceEndEditable -->
+			<!-- TemplateEndEditable --><!-- InstanceEndEditable -->
     
     <!--コンテンツ部分　↓↓↓-->
-			
+			<!-- InstanceBeginEditable name="content1" -->
     <section>
       <div class="container top_margin30">
-       <div class="row"><!-- InstanceBeginEditable name="sidebar_content" -->
-         <div class="col-md-8">
-         <section id="access" class="section_padding">
-  
-    <h2 class="kasou_title2">アクセス</h2>
-    
-    
-    <div class="col-sm-12"><div class="ggmap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.448443764553!2d139.74401641744825!3d35.66595848704805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b918eaf37d1%3A0x9350cc8ceb426ef7!2z44Ko44Kw44K844Kv44OG44Kj44OW44K_44Ov44O86JmO44Gu6ZaA!5e0!3m2!1sja!2sjp!4v1555482493734!5m2!1sja!2sjp" width="800" height="600"  style="border:0" allowfullscreen></iframe></div></div>
-      
-    
-    <address class="h4 top_margin30">住所：東京都港区虎ノ門</address>
-    <blockquote class="inyou_red"><h3 class="h2">電車でお越しの方</h3></blockquote>
-    <ul>
-      <li>東京メトロ銀座線『虎ノ門駅』1番出口より徒歩約5分</li>
-      <li>東京メトロ日比谷線『神谷町駅』3番出口より徒歩約6分</li>
-      <li>東京メトロ千代田線・丸ノ内線・日比谷線『霞ヶ関駅』A12出口より徒歩約8分</li>
-      <li>都営三田線『内幸町駅』A3出口より徒歩約8分</li>
-      <li>JR『新橋駅』より徒歩約11分</li>
-    </ul>
-    <blockquote class="inyou_red"><h3 class="h2">お車でお越しの方</h3></blockquote>
-    <ul>
-      <li>新橋駅から車で約5分</li>
-<li>東京駅から車で約10分</li>
-<li>「横浜・羽田」方面より・・・首都高速「汐留」出口から約5分</li>
-<li>「池袋・新宿・成田」方面より・・・首都高速「霞が関」出口から約5分</li>
-<li>成田空港から車で約90分</li>
-<li>羽田空港から車で約30分</li>
-    </ul>
-
-  
-</section>
-         
-         </div>
-       <!-- InstanceEndEditable -->
+       <div class="row"><!-- TemplateBeginEditable name="sidebar_content" -->
+         <div class="col-md-8"> 左側メインコンテンツが入ります。 </div>
+       <!-- TemplateEndEditable -->
          <div class="col-md-4 sidebar_padding">
          
            <div class="fh5co-side-section fh5co-nav-links">
@@ -195,7 +164,33 @@
 				
 				
 				<div class="fh5co-spacer fh5co-spacer-xlg"></div>
-				 
+				<!-- TemplateBeginIf cond="slider1" -->
+				<section id="fh5co-testimonial">
+				  <div class="container">
+				    <div class="row">
+				      <div class="col-md-12 text-center">
+				        <h2 class="fh5co-uppercase-heading-sm">Testimony</h2>
+				        <div class="owl-carousel-fullwidth fh5co-light-arrow owl-carousel-2">
+				          <div class="item">
+				            <blockquote>
+				              <p class="fh5co-serif">&ldquo;Design is not just what it looks like and feels like. Design is how it works.&rdquo;</p>
+				              <p class="fh5co-testimonial-author"><cite>&mdash; Steve Jobs</cite></p>
+				              </blockquote>
+				            </div>
+				          <!-- END .item -->
+				          <div class="item">
+				            <blockquote>
+				              <p class="fh5co-serif">&ldquo;Design is not just what it looks like and feels like. Design is how it works.&rdquo;</p>
+				              <p class="fh5co-testimonial-author"><cite>&mdash; Steve Jobs</cite></p>
+				              </blockquote>
+				            </div>
+				          <!-- END .item -->
+				          </div>
+				        </div>
+				      </div>
+				    </div>
+				  </section>
+				<!-- TemplateEndIf --><!-- InstanceEndEditable --> 
 				<!--ここまでメインコンテンツ　↑↑↑-->
 				
     

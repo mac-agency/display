@@ -427,7 +427,7 @@ vertical-align:bottom;
 
 .footer_font1 {
   list-style: none;
-  font-size: 14px;
+  font-size: 13px;
   color: hsla(0,0%,80%,1.00);
   padding-left: 0px;
 }
@@ -496,6 +496,46 @@ vertical-align:bottom;
 
 .text11 {
   font-size: 11px;
+}
+
+.sidebar_padding {
+  padding: 10px;
+}
+
+.bg-sidebar {
+  background-color: rgba(243,243,243,1.00);
+}
+
+#kasou-hero {
+  background-color: #2e2e2e;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center left;
+  height: 600px;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  color: #ffffff;
+}
+
+#kasou-hero.fh5co-hero-wrap {
+  display: table;
+  height: 600px;
+  width: 100%;
+}
+
+.kasou_main_title {
+  font-size: 33px;
+  font-weight: bold;
+}
+
+.top_margin100 {
+  margin-top: 100px;
+}
+
+.kasou_title_margin {
+  margin-top: 250px;
 }
 
 
