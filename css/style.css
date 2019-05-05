@@ -584,8 +584,8 @@ textarea {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center left;
-  height: 400px;
-  /* [disabled]position: fixed; */
+  height: 600px;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
@@ -599,7 +599,7 @@ textarea {
 }
 #fh5co-hero .fh5co-hero-wrap {
   display: table;
-  height: 400px;
+  height: 600px;
   width: 100%;
 }
 #fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro {
@@ -1131,10 +1131,7 @@ Components
 
 #fh5co-testimonial {
   padding: 10em 0;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-image: url(../images/company_top.jpg);
-  background-color: #000;
+  background: #000 url(../images/hero2.jpg) no-repeat center center;
   background-size: cover;
 }
 @media screen and (max-width: 768px) {

@@ -1,22 +1,24 @@
 <!DOCTYPE html>
   <html lang="ja">
-	<head>
-	<!-- TemplateBeginEditable name="charset" -->
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  <head>
+   <!-- TemplateBeginEditable name="meta1" -->
 	<meta charset="utf-8">
-	<!-- TemplateEndEditable -->
+  <!-- TemplateEndEditable --> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- TemplateBeginEditable name="doctitle" -->
 	<title>web site design4 仮のコーポレートサイトです。</title>
 	<!-- TemplateEndEditable -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- TemplateBeginEditable name="base_meta" -->
+	<!-- TemplateBeginEditable name="meta2" -->
 	<meta name="description" content="より良いホームページをより安く！素敵なデザインであなたの会社をアピールしましょう。" />
 	<meta name="keywords" content="コーポレートサイト,安価,ホームページ制作" />
 	<!-- TemplateEndEditable -->
 	<meta name="author" content="Mac-Agency" />
-	<meta name="robots" content="noindex,nofollow">
-	<!-- Facebook and Twitter integration -->
-	<!--<meta property="og:title" content=""/>
+  <meta name="robots" content="noindex,nofollow">
+ 	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
 	<meta property="og:site_name" content=""/>
@@ -24,10 +26,12 @@
 	<meta name="twitter:title" content="" />
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />-->
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="../favicon.ico">
-	<!-- Google Webfont -->
+	<meta name="twitter:card" content="" />
+
+  	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+ 	<link rel="shortcut icon" href="../favicon.ico">
+
+  	<!-- Google Webfont -->
 	<!--<link href="http://fonts.googleapis.com/css?family=Lato:300,400|Crimson+Text" rel="stylesheet" type="text/css">-->
 	<!-- Themify Icons -->
 	<link rel="stylesheet" href="../css/themify-icons.css">
@@ -42,21 +46,23 @@
 	<link rel="stylesheet" href="../css/superfish.css">
 	<!-- Easy Responsive Tabs -->
 	<link rel="stylesheet" href="../css/easy-responsive-tabs.css">
+
+	
+
 	<!-- Theme Style -->
 	<link rel="stylesheet" href="../css/style.css">
 	<link href="../css/index_customize.css" rel="stylesheet" type="text/css">
+
 	<script src="../js/retina.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-	<!-- TemplateBeginEditable name="head" -->
-	<!-- TemplateEndEditable -->
-	<!-- TemplateParam name="option1" type="boolean" value="false" -->
+
 	</head>
 	<body>
-
+			
 			<!-- START #fh5co-header -->
 	<header id="fh5co-header-section" class="" >
 				<div class="container">
@@ -87,8 +93,9 @@
 				</div>
 			</header>
 			
-			<!-- START #fh5co-hero --><!-- TemplateBeginEditable name="hero1" -->
-			<section id="fh5co-hero" style="background-image: url(../images/top_slide3.jpg);">
+			<!-- START #fh5co-hero -->
+			<!-- TemplateBeginEditable name="hero1" -->
+			<aside id="fh5co-hero" style="background-image: url(../images/top_slide3.jpg);">
 			  <div class="container">
 			    <div class="row">
 			      <div class="col-md-8 col-md-offset-2">
@@ -101,11 +108,10 @@
 		        </div>
 		      </div>
 		    </div>
-		  </section>
+		  </aside>
 			<!-- TemplateEndEditable -->
     
-    <!--コンテンツ部分　↓↓↓-->
-			<!-- TemplateBeginEditable name="content1" -->
+    <!-- TemplateBeginEditable name="content" -->
     <div id="fh5co-main">
 
 				<div class="container">
@@ -116,8 +122,7 @@
 							<p><a href="#" class="btn btn-outline btn-lg">Read More</a></p>
 						</div>
 					</div>
-      </div>
-    </div>
+		</div>
 
 				<section id="fh5co-feature">
 					<div class="container">
@@ -247,7 +252,7 @@
 					</div>
 				</section>
 
-			<section id="fh5co-newsletter">
+				<section id="fh5co-newsletter">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 text-center">
@@ -265,12 +270,7 @@
 						</div>
 					</div>
 				</section>
-       <!-- TemplateEndEditable --> 
-				<!--ここまでメインコンテンツ　↑↑↑-->
-				<!-- TemplateBeginIf cond="option1" -->
-    option1
-        <!-- TemplateEndIf -->
-    
+	<!-- TemplateEndEditable -->
 				<footer id="fh5co-footer">
 					<div class="container">
             <div class="row">
@@ -279,23 +279,23 @@
               <div class="col-sm-6 bottom_margin10">
           <h2 class="h5 footer_list_category">企業情報</h2>
 					<ul class="footer_font1">
-						<li><a href="#">当社について</a></li>
-						<li><a href="#">会社概要</a></li>
-						<li><a href="#">当社の強み</a></li>
-						<li><a href="#">企業理念</a></li>
-						<li><a href="#">ポリシー</a></li>
-            <li><a href="#">沿革</a></li>
-            <li><a href="#">社会貢献</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/about_us/index.html">当社について</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/profile/index.html">会社概要</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/strength/index.html">当社の強み</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/philosophy/index.html">企業理念</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/policy/index.html">ポリシー</a></li>
+            <li><a href="file:///Macintosh HD/Users/yamano_masashi/site/history/index.html">沿革</a></li>
+            <li><a href="file:///Macintosh HD/Users/yamano_masashi/site/social_activity/index.html">社会貢献</a></li>
 					</ul>
 				</div>
                 <div class="col-sm-6">
            <h2 class="h5 footer_list_category">その他</h2>
 					<ul class="fh5co-footer-links footer_font1">
-						<li><a href="#">採用について</a></li>
-						<li><a href="#">先輩社員の声</a></li>
-						<li><a href="#">個人情報保護方針</a></li>
-						<li><a href="#">サイトマップ</a></li>
-						<li><a href="#">お問合せ</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/recruit/index.html">採用について</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/voice/index.html">先輩社員の声</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/privacy/index.html">個人情報保護方針</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/sitemap/index.html">サイトマップ</a></li>
+						<li><a href="file:///Macintosh HD/Users/yamano_masashi/site/contact/index.html">お問合せ</a></li>
 					</ul>
 				</div>
               </div>
@@ -312,31 +312,33 @@
 						<p class="text-muted fh5co-no-margin-bottom text-center"><small>&copy; 2019 <a href="#">Your Company</a>. All rights reserved.<br> Produced by <a href="https://mac-agency.com/" target="_blank">Mac Agency</a></small></p>
 
 					</div>
-	</footer>
+				</footer>
 			
 		
-	
+	</div>
 			
 			
 		<!-- jQuery -->
-		<script src="../js/jquery-1.10.2.min.js"></script>
+	<script src="../js/jquery-1.10.2.min.js"></script>
 		<!-- jQuery Easing -->
-		<script src="../js/jquery.easing.1.3.js"></script>
+	<script src="../js/jquery.easing.1.3.js"></script>
 		<!-- Bootstrap -->
-		<script src="../js/bootstrap.js"></script>
+	<script src="../js/bootstrap.js"></script>
 		<!-- Owl carousel -->
-		<script src="../js/owl.carousel.min.js"></script>
+	<script src="../js/owl.carousel.min.js"></script>
 		<!-- Magnific Popup -->
-		<script src="../js/jquery.magnific-popup.min.js"></script>
+	<script src="../js/jquery.magnific-popup.min.js"></script>
 		<!-- Superfish -->
-		<script src="../js/hoverIntent.js"></script>
-		<script src="../js/superfish.js"></script>
+	<script src="../js/hoverIntent.js"></script>
+	<script src="../js/superfish.js"></script>
 		<!-- Easy Responsive Tabs -->
-		<script src="../js/easyResponsiveTabs.js"></script>
+	<script src="../js/easyResponsiveTabs.js"></script>
 		<!-- FastClick for Mobile/Tablets -->
-		<script src="../js/fastclick.js"></script>
+	<script src="../js/fastclick.js"></script>
 		<!-- Main JS -->
-		<script src="../js/main.js"></script>
+	<script src="../js/main.js"></script>
+	<!-- TemplateBeginEditable name="script" -->
+  <!-- TemplateEndEditable -->
 
 	</body>
 </html>
