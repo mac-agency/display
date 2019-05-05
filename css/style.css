@@ -585,11 +585,11 @@ textarea {
   background-repeat: no-repeat;
   background-position: center left;
   height: 600px;
-  position: fixed;
+  /* [disabled]position: fixed; */
   top: 0;
   left: 0;
   right: 0;
-  z-index: 5;
+  z-index: 1;
   color: #ffffff;
 }
 @media screen and (max-width: 768px) {

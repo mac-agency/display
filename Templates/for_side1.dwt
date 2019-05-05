@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-  <html lang="ja">
-  <!-- TemplateBeginEditable name="head" -->
-  <!-- TemplateEndEditable -->
+  <html lang="ja"><!-- InstanceBegin template="/Templates/base1.dwt" codeOutsideHTMLIsLocked="false" -->
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
   <link href="../css/page_to_top2.css" rel="stylesheet" type="text/css">
   <head>
-   <!-- TemplateBeginEditable name="meta1" -->
+   <!-- InstanceBeginEditable name="meta1" -->
 	<meta charset="utf-8">
-  <!-- TemplateEndEditable --> 
+  <!-- InstanceEndEditable --> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<!-- TemplateBeginEditable name="doctitle" -->
+	<!-- InstanceBeginEditable name="doctitle" -->
 	<title>web site design4 仮のコーポレートサイトです。</title>
-	<!-- TemplateEndEditable -->
+	<!-- InstanceEndEditable -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- TemplateBeginEditable name="meta2" -->
+	<!-- InstanceBeginEditable name="meta2" -->
 	<meta name="description" content="より良いホームページをより安く！素敵なデザインであなたの会社をアピールしましょう。" />
 	<meta name="keywords" content="コーポレートサイト,安価,ホームページ制作" />
-	<!-- TemplateEndEditable -->
+	<!-- InstanceEndEditable -->
 	<meta name="author" content="Mac-Agency" />
   <meta name="robots" content="noindex,nofollow">
  	<!-- Facebook and Twitter integration -->
@@ -107,7 +107,7 @@ window.addEventListener('load', function() {
 			</header>
 			<a href="#up" class="simplescrollup__button simplescrollup__button--hide">Page to Top</a>
 			<!-- START #fh5co-hero -->
-			<!-- TemplateBeginEditable name="hero1" -->
+			<!-- InstanceBeginEditable name="hero1" -->
 			<aside id="fh5co-hero" style="background-image: url(../images/top_slide3.jpg);">
 			  <div class="container">
 			    <div class="row">
@@ -122,10 +122,10 @@ window.addEventListener('load', function() {
 		      </div>
 		    </div>
 		  </aside>
-			<!-- TemplateEndEditable -->
+			<!-- InstanceEndEditable -->
     
-    <!-- TemplateBeginEditable name="content" -->
-    
+    <!-- InstanceBeginEditable name="content" -->
+    <div id="fh5co-main">
 
 				<div class="container">
 					<div class="row">
@@ -283,7 +283,7 @@ window.addEventListener('load', function() {
 						</div>
 					</div>
 				</section>
-	<!-- TemplateEndEditable -->
+	<!-- InstanceEndEditable -->
     
 				<footer id="fh5co-footer">
 					<div class="container">
@@ -353,8 +353,8 @@ window.addEventListener('load', function() {
 		<!-- Main JS -->
 	<script src="../js/main.js"></script>
     
-	<!-- TemplateBeginEditable name="script" -->
-  <!-- TemplateEndEditable -->
+	<!-- InstanceBeginEditable name="script" -->
+  <!-- InstanceEndEditable -->
 
 	</body>
-</html>
+<!-- InstanceEnd --></html>

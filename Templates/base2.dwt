@@ -3,6 +3,8 @@
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
   <link href="../css/page_to_top2.css" rel="stylesheet" type="text/css">
+  <!-- TemplateParam name="top" type="boolean" value="false" -->
+  <!-- TemplateParam name="sidebar" type="boolean" value="true" -->
   <head>
    <!-- TemplateBeginEditable name="meta1" -->
 	<meta charset="utf-8">
@@ -122,20 +124,21 @@ window.addEventListener('load', function() {
 		      </div>
 		    </div>
 		  </aside>
-			<!-- TemplateEndEditable -->
-    
-    <!-- TemplateBeginEditable name="content" -->
+			<!-- TemplateEndEditable --><!-- TemplateBeginIf cond="top" --><!-- TemplateBeginEditable name="EditRegion8" -->
+			<section>
+			  <div class="container"></div>
+			  </section>
+			<!-- TemplateEndEditable --><!-- TemplateEndIf -->
+			
+			<!-- TemplateBeginEditable name="content" -->
     
 
 				<div class="container">
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 text-center fh5co-lead-wrap">
-							<h2 class="fh5co-serif fh5co-lead">Cras <a href="#">rhoncus</a> scelerisque eros. Donec nec massa eu sapien condimentum aliquet ac in erat. Proin eleifend tortor eu arcu bibendum congue. </h2>
-							<div class="fh5co-spacer fh5co-spacer-sm"></div>
-							<p><a href="#" class="btn btn-outline btn-lg">Read More</a></p>
-						</div>
-					</div>
-		</div>
+			  <div class="row">
+			    <div class="col-md-8">11111111111</div>
+			    <div class="col-md-3 col-md-offset-1">中身はライブラリーで管理</div>
+			    </div>
+			  </div>
 
 				<section id="fh5co-feature">
 					<div class="container">
@@ -178,7 +181,7 @@ window.addEventListener('load', function() {
 
 						</div>
 					</div>
-				</section>
+			</section>
 				
 				<div class="fh5co-spacer fh5co-spacer-lg"></div>
 
@@ -329,7 +332,7 @@ window.addEventListener('load', function() {
 				</footer>
 			
 		
-	</div>
+	
 			
 		<!-- jQuery -->
 

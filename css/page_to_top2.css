@@ -1,21 +1,18 @@
 @charset "UTF-8";
-#goto_top {
+.simplescrollup__button {
   position: fixed;
-  right: 10%;
-  bottom: 10%;
-  z-index: 0;
+  bottom: 3rem;
+  right: 2rem;
+  transition: 1s all;
+  z-index: 10000;
+  color: rgba(232,232,232,1.00);
+  background-color: rgba(115,189,203,1.00);
+  padding: 10px;
+  border-radius: 5px;
 }
-
-#goto_top a {
-  width: 100px;
-  height: 100px;
-  border-radius: 20px;
-  background: #f86560;
-  display: block;
-  color: #fff;
-  text-align: center;
-  line-height: 100px;
-  text-decoration: none;
-  font-weight: bold;
-  z-index: 9991;
-}       
+.simplescrollup__button--show {
+	transform: translateX(0);
+}
+.simplescrollup__button--hide {
+	transform: translateX(100px);
+}

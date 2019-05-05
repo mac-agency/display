@@ -2,7 +2,6 @@
   <html lang="ja">
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
-  <link href="../css/page_to_top2.css" rel="stylesheet" type="text/css">
   <head>
    <!-- TemplateBeginEditable name="meta1" -->
 	<meta charset="utf-8">
@@ -19,7 +18,7 @@
 	<meta name="author" content="Mac-Agency" />
   <meta name="robots" content="noindex,nofollow">
  	<!-- Facebook and Twitter integration -->
-	<!--<meta property="og:title" content=""/>
+	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
 	<meta property="og:site_name" content=""/>
@@ -27,7 +26,7 @@
 	<meta name="twitter:title" content="" />
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />-->
+	<meta name="twitter:card" content="" />
 
   	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
  	<link rel="shortcut icon" href="../favicon.ico">
@@ -47,26 +46,14 @@
 	<link rel="stylesheet" href="../css/superfish.css">
 	<!-- Easy Responsive Tabs -->
 	<link rel="stylesheet" href="../css/easy-responsive-tabs.css">
+
 	
 
 	<!-- Theme Style -->
 	<link rel="stylesheet" href="../css/style.css">
 	<link href="../css/index_customize.css" rel="stylesheet" type="text/css">
-<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">-->
- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
-   
+
 	<script src="../js/retina.js"></script>
-    <!--シンプルスクロール-->
-    <script type="text/javascript" src="../js/simplescrollup.js"></script>
-  <!-- ここからJavaScript page_to_topシンプルスクロール -->
-<script>
-window.addEventListener('load', function() {
-      document.querySelector('.js-scroll-to-top').addEventListener('click', function(e) {
-        e.preventDefault();
-        document.querySelector('header').scrollIntoView({ behavior: 'smooth' });
-      });
-    });
-</script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -105,7 +92,7 @@ window.addEventListener('load', function() {
 
 				</div>
 			</header>
-			<a href="#up" class="simplescrollup__button simplescrollup__button--hide">Page to Top</a>
+			
 			<!-- START #fh5co-hero -->
 			<!-- TemplateBeginEditable name="hero1" -->
 			<aside id="fh5co-hero" style="background-image: url(../images/top_slide3.jpg);">
@@ -125,7 +112,7 @@ window.addEventListener('load', function() {
 			<!-- TemplateEndEditable -->
     
     <!-- TemplateBeginEditable name="content" -->
-    
+    <div id="fh5co-main">
 
 				<div class="container">
 					<div class="row">
@@ -284,7 +271,6 @@ window.addEventListener('load', function() {
 					</div>
 				</section>
 	<!-- TemplateEndEditable -->
-    
 				<footer id="fh5co-footer">
 					<div class="container">
             <div class="row">
@@ -331,8 +317,7 @@ window.addEventListener('load', function() {
 		
 	</div>
 			
-		<!-- jQuery -->
-
+			
 		<!-- jQuery -->
 	<script src="../js/jquery-1.10.2.min.js"></script>
 		<!-- jQuery Easing -->
@@ -352,7 +337,6 @@ window.addEventListener('load', function() {
 	<script src="../js/fastclick.js"></script>
 		<!-- Main JS -->
 	<script src="../js/main.js"></script>
-    
 	<!-- TemplateBeginEditable name="script" -->
   <!-- TemplateEndEditable -->
 
