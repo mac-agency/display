@@ -669,7 +669,7 @@ body.inner-page #fh5co-hero .fh5co-hero-wrap {
 }
 
 #fh5co-main {
-  margin-top: 600px;
+  /* [disabled]margin-top: 600px; */
   padding-top: 50px;
   z-index: 102;
   position: relative;
@@ -683,7 +683,7 @@ body.inner-page #fh5co-hero .fh5co-hero-wrap {
 }
 
 body.inner-page #fh5co-main {
-  margin-top: 400px;
+  /* [disabled]margin-top: 50px; */
 }
 @media screen and (max-width: 768px) {
   body.inner-page #fh5co-main {

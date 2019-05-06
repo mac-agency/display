@@ -131,7 +131,7 @@
 .jigyou_title {
   background-color: #00AB8E;
   color: #FFFFFF;
-  font-size: 21px;
+  font-size: 15px;
   line-height: 2em;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -546,6 +546,18 @@ vertical-align:bottom;
 
 .kasou_title_margin {
   margin-top: 250px;
+}
+.all_padding15   {
+  padding: 15px;
+}
+
+.kasou_top_title {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.table_width30 {
+  width: 30%;
 }
 
 
